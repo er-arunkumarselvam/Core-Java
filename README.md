@@ -1,13 +1,14 @@
+
+
+
+
+
 # Core Java Practice
 
-This repository contains practice files for Core Java. The table below lists various Java topics and their respective files.
+This repository contains practice files for Core Java. The table below lists various Java topics, subtopics, and their respective files.
 
-| S.No | Topic Name        | File Links                                           |
-|------|-------------------|-----------------------------------------------------|
-| 1    | Basic Syntax       | - [HelloWorld.java](\Helloworld\src\HelloWorld.java) |
-| 2    | Object Creation | - [ObjectCreation.java](\ObjectCreation\src\ObjectCreation.java) |
-| 3    | Method Creation | - [Calculator.java](MethodCreation\src\Calculator.java)( With argument passing and with return value) <br> - [Calaculator2.java](MethodCreation\src\Calculator2.java)(With arguments and without return value)  <br> - [Calaculator3.java](MethodCreation\src\Calculator3.java)(Without arguments and with return value)  <br> - [Calaculator4.java](MethodCreation\src\Calculator4.java)(Without arguments and without return value) |
-
-
-
-
+| S.No | Topic Name        | Subtopics                                              | File Links                                                                                                            |
+|------|-------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| 1    | Basic Syntax       | Introduction to Java                                |  [HelloWorld.java](/Helloworld/src/HelloWorld.java)                                                  |
+| 2    | Object Creation    | Creating Objects and Classes                        |  [ObjectCreation.java](/ObjectCreation/src/ObjectCreation.java)                                      |
+| 3    | Method Creation    | With arguments and return value <hr>  With arguments, without return value <hr>  Without arguments, with return value <hr> Without arguments, without return value |  [Calculator.java](MethodCreation/src/Calculator.java)<hr>  [Calculator2.java](MethodCreation/src/Calculator2.java) <hr>  [Calculator3.java](MethodCreation/src/Calculator3.java) <hr>  [Calculator4.java](MethodCreation/src/Calculator4.java)|
